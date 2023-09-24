@@ -3,7 +3,7 @@
 # Hook 14s
 Probaltal mar interaktiv file strukturat renderelni Reakt-ban?
 Meglepnelek ha azt mondanam, hogy mutatok egy teknikat,
-amivel ezt egyettlen onmagara hivatkozo komponensel meg lehetne oldani?
+amivel egy egyettlen onmagara hivatkozo komponensel meg lehetne oldani?
 Izgi? Nezzuk meg!
 
 # Devsetup 14
